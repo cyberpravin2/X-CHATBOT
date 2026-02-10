@@ -18,5 +18,5 @@ OWNER_ID = os.getenv("OWNER_ID")
 OWNER_USERNAME = "zyndx"
 
 # Support group and update channel names
-SUPPORT_GROUP = "zyndx_grp"
-UPDATE_CHANNEL = "pravinxproof"
+SUPPORT_GROUP = "monkchatz"
+UPDATE_CHANNEL = "zyndxvou"
